@@ -14,3 +14,6 @@ Ruler-Slider is a customizable slider component designed to mimic a ruler, built
 - **React**: JavaScript library for building user interfaces.
 - **React Native**: Framework for building native mobile apps using React.
 - **NativeWind**: Utility-first CSS framework for styling components.
+  
+## Author
+Aciel07
